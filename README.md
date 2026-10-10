@@ -32,8 +32,8 @@ every day at **5:00 AM in their local timezone**.
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/wnselin/usdbotbywnselin
+cd usdbotbywnselin
 ```
 Install theese requirements: aiogram, aiohttp, pytz, apscheduler, python-dotenv
 
@@ -139,8 +139,8 @@ MIT
 ### Установка
 
 ```bash
-git clone https://github.com/ВАШ_НИК/ВАШ_РЕПО.git
-cd ВАШ_РЕПО
+git clone https://github.com/wnselin/usdbotbywnselin
+cd usdbotbywnselin
 ```
 Установите эти зависимости: aiogram, aiohttp, pytz, apscheduler, python-dotenv
 
