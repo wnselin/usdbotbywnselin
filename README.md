@@ -1,4 +1,4 @@
-# CryptoFiatMonitoring Bot
+# usdbotbywnselin
 
 <a name="english"></a>
 ## 🇬🇧 English
