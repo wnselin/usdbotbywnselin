@@ -1,0 +1,5 @@
+aiogram==3.x.x
+aiosqlite==0.x.x
+apscheduler==3.x.x
+aiohttp==3.x.x
+python-dotenv==1.x.x
