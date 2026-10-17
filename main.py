@@ -219,7 +219,7 @@ async def build_rate_message() -> str:
         return "⚠️ Не удалось получить актуальный курс. Попробуйте позже."
 
     return (
-        f"💰 <b>Курс USD/RUB на {rate_cache['date']}</b>\n\n"
+        f"💰 <b>Доброе утро!</b>\n\n"
         f"Текущий курс: <b>{rate_cache['value']:.2f} ₽</b>"
     )
 
